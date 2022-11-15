@@ -1,6 +1,6 @@
 # Visa Requirements
 ## Introduction
-List immigration procedures per country for different nationals.
+List entry procedures per country for different nationals.
 ## 🇫🇷 Ressortissants français
 | Pays | Durée maximale du séjour | Coûts | Procédures d'entrée | Vaccination | Covid |
 | - | - | - | - | - | - |
