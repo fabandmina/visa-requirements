@@ -12,7 +12,7 @@ List entry procedures per country for different nationals.
 | Turkmenistan | 3 à 5 jours | 55 USD | Nécessite un visa pour l'Ouzbékistan déjà délivré. Il est plus facile d'obtenir un visa pour la fête de Novruz (21 mars 2024) et la fête du Cheval (30 April 2024) |  |  |
 | Ouzbékistan | 30 jours | Gratuit | Exemption de visa |  |  |
 | Kazakhstan | 30 jours | Gratuit | Exemption de visa |  |  |
-| Kyrgyzstan | 60 jours | Gratuit |  |  |  |
+| Kyrgyzstan | 60 jours | Gratuit | Exemption de visa |  |  |
 | Chine | 2x30 jours | 150€ |  Passer par une agence? |  |  |
 | Mongolie | 30 jours | Gratuit | Exemption de visa  |  |  |
 | Corée du Sud | 90 jours | 10 000 wons | Demande en ligne à faire 24 avant l'entrée https://www.k-eta.go.kr/portal/apply/index.do  (Exemption temporaire pour ressortissant français à ce jour) |  |  |
